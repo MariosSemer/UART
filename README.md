@@ -41,3 +41,6 @@ This project implements a UART, using FIFO buffering, with CSRs and AXI4-Lite in
 
 ● signal_generator.vhd
 
+## Block Diagram
+
+![UART](https://github.com/user-attachments/assets/3742854a-a6bb-4062-913f-4979388b6093)
