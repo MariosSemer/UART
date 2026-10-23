@@ -17,8 +17,6 @@ This project implements a UART, using FIFO buffering, with CSRs and AXI4-Lite in
 
 ## File Structure
 
-● async_fifo_tb.vhd - Top-level entity for the asynchronous fifo
-
 ● AXI4-Lite_UART_Slave.vhd - AXI4-Lite UART wrapper
 
 ● AXI4-Lite_Slave.vhd - Implements the interface protocol
